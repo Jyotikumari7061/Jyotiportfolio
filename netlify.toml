@@ -1,0 +1,12 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/preview.jpg"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+    Content-Type = "image/jpeg"
