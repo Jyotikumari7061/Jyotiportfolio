@@ -42,7 +42,7 @@ No npm install. No build step. No extra files needed.
 3. Drag the `jyoti-portfolio` folder into the upload area
 4. Once deployed, go to **Site configuration → Change site name**
 5. Type: `jyoti-kumari` → Save
-6. Your URL becomes → **jyotik.netlify.app ** ✓
+6. Your URL becomes → **https://jyotik.netlify.app/ ** ✓
 
 ---
 
@@ -54,7 +54,7 @@ After getting your live URL, do the following on LinkedIn:
 1. Open your LinkedIn profile
 2. Scroll to the **Featured** section
 3. Click the **+** button → select **"Add a link"**
-4. Paste your Netlify URL (e.g. https://jyoti-kumari.netlify.app)
+4. Paste your Netlify URL (e.g. https://jyotik.netlify.app/)
 5. LinkedIn auto-generates a preview card → click **Save**
 
 ### B) Contact Info → Website
