@@ -29,7 +29,7 @@ No npm install. No build step. No extra files needed.
 
 ### Option A — Drag and Drop (Easiest, no account needed)
 
-1. Go to → **https://app.netlify.com/drop**
+1. Go to → **jyotik.netlify.app **
 2. Drag the entire `jyoti-portfolio` **folder** onto the page
 3. Wait 10 seconds → your live URL appears
    Example: `https://luminous-fox-a1b2.netlify.app`
@@ -42,7 +42,7 @@ No npm install. No build step. No extra files needed.
 3. Drag the `jyoti-portfolio` folder into the upload area
 4. Once deployed, go to **Site configuration → Change site name**
 5. Type: `jyoti-kumari` → Save
-6. Your URL becomes → **https://jyoti-kumari.netlify.app** ✓
+6. Your URL becomes → **jyotik.netlify.app ** ✓
 
 ---
 
